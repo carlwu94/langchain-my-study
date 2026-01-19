@@ -1,0 +1,7 @@
+.env
+chroma_langchain_db/
+chroma_rag_db/
+chroma_score_db/
+pdfs/
+*.db
+target.md
